@@ -1,0 +1,300 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 358.0,
+		"last_filter": "esli",
+		"selected_items":
+		[
+			[
+				"esli",
+				"ESLint"
+			],
+			[
+				"prett",
+				"JsPrettier: Format Code"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"new",
+				"File: New View into File"
+			],
+			[
+				"men",
+				"View: Toggle Menu"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"proje",
+				"Project: Close"
+			],
+			[
+				"pretter",
+				"JsPrettier: Format Code"
+			],
+			[
+				"jspr",
+				"JsPrettier: Format Code"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pref",
+				"Preferences: Settings"
+			],
+			[
+				"git",
+				"git: branch"
+			],
+			[
+				"savvy",
+				"Preferences: GitSavvy Settings"
+			],
+			[
+				"prefe",
+				"Preferences: Settings"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"toggle",
+				"View: Toggle Side Bar"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"me",
+				"View: Toggle Menu"
+			],
+			[
+				"sidebar",
+				"View: Toggle Side Bar"
+			],
+			[
+				"toggl",
+				"View: Toggle Menu"
+			],
+			[
+				"open file",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"theme",
+				"Boxy Theme: Activation"
+			],
+			[
+				"side bar",
+				"View: Toggle Side Bar"
+			],
+			[
+				"to",
+				"View: Toggle Side Bar"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/martin/work/thejsway/thejsway-code",
+		"/home/martin/work/thejsway/thejsway-code/chapter01",
+		"/home/martin/work/thejsway/thejsway-code/chapter01/html",
+		"/home/martin/work/thejsway/thejsway-code/chapter01/js"
+	],
+	"file_history":
+	[
+		"/home/martin/work/thejsway/thejsway-code/chapter01/js/example.js",
+		"/home/martin/work/thejsway/thejsway-code/chapter01/html/example.html",
+		"/home/martin/work/thejsway/thejsway-code/chapter01/html/example.css",
+		"/home/martin/work/thejsway/test.js",
+		"/home/martin/work/book/outline.txt",
+		"/home/martin/.config/i3/config",
+		"/home/martin/.config/i3/i3blocks.conf",
+		"/home/martin/.password-store/.gitattributes",
+		"/home/martin/.config/i3/get_title.sh",
+		"/etc/i3/config",
+		"/home/martin/i3blocks.conf",
+		"/home/martin/documents/tex/brief/gez.tex",
+		"/home/martin/documents/tex/brief/mietkündigung.tex",
+		"/home/martin/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/martin/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/martin/.Xresources"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"log"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 124.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.show_commit_info":
+	{
+		"height": 124.0
+	},
+	"pinned_build_system": "",
+	"project": "thejsway.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 197.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
