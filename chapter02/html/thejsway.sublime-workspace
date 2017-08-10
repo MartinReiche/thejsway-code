@@ -4,10 +4,6 @@
 		"selected_items":
 		[
 			[
-				"con",
-				"console"
-			],
-			[
 				"margin",
 				"margin"
 			]
@@ -15,15 +11,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "/home/martin/work/thejsway/thejsway-code/chapter02/js/example.js",
-			"settings":
-			{
-				"buffer_size": 963,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -32,36 +19,16 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 235.0,
-		"last_filter": "save as",
+		"height": 358.0,
+		"last_filter": "sta",
 		"selected_items":
 		[
 			[
-				"save as",
-				"Project: Save As"
-			],
-			[
-				"prett",
-				"JsPrettier: Format Code"
-			],
-			[
-				"pre",
-				"Preferences: Settings"
-			],
-			[
-				"to",
-				"View: Toggle Status Bar"
-			],
-			[
-				"stat",
+				"sta",
 				"git: status"
 			],
 			[
-				"git",
-				"git: log"
-			],
-			[
-				"sta",
+				"stat",
 				"git: status"
 			],
 			[
@@ -74,6 +41,10 @@
 			],
 			[
 				"pr",
+				"Preferences: Settings"
+			],
+			[
+				"pre",
 				"Preferences: Settings"
 			],
 			[
@@ -101,12 +72,20 @@
 				"Preferences: Browse Packages"
 			],
 			[
+				"git",
+				"git: tags"
+			],
+			[
 				"insta",
 				"Package Control: Install Package"
 			],
 			[
 				"esli",
 				"ESLint"
+			],
+			[
+				"prett",
+				"JsPrettier: Format Code"
 			],
 			[
 				"key",
@@ -175,6 +154,10 @@
 			[
 				"side bar",
 				"View: Toggle Side Bar"
+			],
+			[
+				"to",
+				"View: Toggle Side Bar"
 			]
 		],
 		"width": 602.0
@@ -198,11 +181,9 @@
 	"expanded_folders":
 	[
 		"/home/martin/work/thejsway/thejsway-code",
+		"/home/martin/work/thejsway/thejsway-code/chapter01",
 		"/home/martin/work/thejsway/thejsway-code/chapter01/html",
-		"/home/martin/work/thejsway/thejsway-code/chapter01/js",
-		"/home/martin/work/thejsway/thejsway-code/chapter02",
-		"/home/martin/work/thejsway/thejsway-code/chapter02/html",
-		"/home/martin/work/thejsway/thejsway-code/chapter02/js"
+		"/home/martin/work/thejsway/thejsway-code/chapter01/js"
 	],
 	"file_history":
 	[
@@ -259,39 +240,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "/home/martin/work/thejsway/thejsway-code/chapter02/js/example.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 963,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								325,
-								325
-							]
-						],
-						"settings":
-						{
-							"git_savvy.repo_path": "/home/martin/work/thejsway/thejsway-code",
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"touched": 1502312893.55
-						},
-						"translation.x": 0.0,
-						"translation.y": 207.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
