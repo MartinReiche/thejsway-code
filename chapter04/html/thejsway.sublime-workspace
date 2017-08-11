@@ -4,22 +4,6 @@
 		"selected_items":
 		[
 			[
-				"th",
-				"thursday"
-			],
-			[
-				"su",
-				"saturday"
-			],
-			[
-				"num",
-				"number1"
-			],
-			[
-				"con",
-				"console"
-			],
-			[
 				"margin",
 				"margin"
 			]
@@ -36,39 +20,15 @@
 	"command_palette":
 	{
 		"height": 358.0,
-		"last_filter": "stat",
+		"last_filter": "sta",
 		"selected_items":
 		[
 			[
-				"stat",
+				"sta",
 				"git: status"
 			],
 			[
-				"men",
-				"View: Toggle Menu"
-			],
-			[
-				"save as",
-				"Project: Save As"
-			],
-			[
-				"prett",
-				"JsPrettier: Format Code"
-			],
-			[
-				"pre",
-				"Preferences: Settings"
-			],
-			[
-				"to",
-				"View: Toggle Status Bar"
-			],
-			[
-				"git",
-				"git: log"
-			],
-			[
-				"sta",
+				"stat",
 				"git: status"
 			],
 			[
@@ -76,7 +36,15 @@
 				"Preferences: Settings"
 			],
 			[
+				"men",
+				"View: Toggle Menu"
+			],
+			[
 				"pr",
+				"Preferences: Settings"
+			],
+			[
+				"pre",
 				"Preferences: Settings"
 			],
 			[
@@ -104,12 +72,20 @@
 				"Preferences: Browse Packages"
 			],
 			[
+				"git",
+				"git: tags"
+			],
+			[
 				"insta",
 				"Package Control: Install Package"
 			],
 			[
 				"esli",
 				"ESLint"
+			],
+			[
+				"prett",
+				"JsPrettier: Format Code"
 			],
 			[
 				"key",
@@ -178,6 +154,10 @@
 			[
 				"side bar",
 				"View: Toggle Side Bar"
+			],
+			[
+				"to",
+				"View: Toggle Side Bar"
 			]
 		],
 		"width": 602.0
@@ -201,20 +181,12 @@
 	"expanded_folders":
 	[
 		"/home/martin/work/thejsway/thejsway-code",
-		"/home/martin/work/thejsway/thejsway-code/chapter02/html",
-		"/home/martin/work/thejsway/thejsway-code/chapter02/js",
-		"/home/martin/work/thejsway/thejsway-code/chapter03",
-		"/home/martin/work/thejsway/thejsway-code/chapter03/html",
-		"/home/martin/work/thejsway/thejsway-code/chapter03/js"
+		"/home/martin/work/thejsway/thejsway-code/chapter01",
+		"/home/martin/work/thejsway/thejsway-code/chapter01/html",
+		"/home/martin/work/thejsway/thejsway-code/chapter01/js"
 	],
 	"file_history":
 	[
-		"/home/martin/work/thejsway/thejsway-code/chapter03/js/example.js",
-		"/home/martin/work/thejsway/thejsway-code/chapter02/js/user_interface.js",
-		"/home/martin/work/thejsway/thejsway-code/chapter03/html/example.html",
-		"/home/martin/work/thejsway/thejsway-code/chapter03/js/user_interface.js",
-		"/home/martin/work/thejsway/thejsway-code/chapter02/html/example.html",
-		"/home/martin/work/thejsway/thejsway-code/chapter02/js/variables.js",
 		"/home/martin/work/thejsway/thejsway-code/chapter01/js/example.js",
 		"/home/martin/work/thejsway/thejsway-code/chapter01/html/example.html",
 		"/home/martin/mnt/20170620_OldGladosBackup/home/martin/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
@@ -303,7 +275,7 @@
 			1.0
 		]
 	},
-	"menu_visible": false,
+	"menu_visible": true,
 	"output.GitSavvy":
 	{
 		"height": 118.0
