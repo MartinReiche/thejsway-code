@@ -60,7 +60,7 @@ console.log(calculate(12, "/", 0)); // Must show Infinity
 
 // Circumference and area of a circle
 const circumferenceOfCircle = radius => radius * 2 * Math.PI;
-const areaOfCircle = radius => "not implemented"
+const areaOfCircle = radius => (radius ** 2) * Math.PI;
 // Ask for user input
 const radius = Number(prompt("Please enter the radius of a cicle."));
 console.log(`The circumference of a circle with radius ${radius} is ${circumferenceOfCircle(radius)}`);

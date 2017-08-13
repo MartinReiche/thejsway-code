@@ -40,10 +40,10 @@ const r = Number(prompt("Enter the circle radius:"));
 const circle = {
 	radius: r,
 	circumference() {
-		return 2*r*Math.PI;
+		return r * 2 * Math.PI;
 	},
 	area() {
-		return "not implemented"
+		return (r ** 2) * Math.PI;
 	}
 }
 
