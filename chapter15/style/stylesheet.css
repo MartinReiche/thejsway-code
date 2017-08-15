@@ -1,0 +1,10 @@
+#para {
+	font-style: italic;
+	color: blue;
+}
+
+#content {
+	float: right;
+	margin-top: 100px;
+	margin-right: 50px;
+}
