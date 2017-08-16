@@ -1,0 +1,57 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Code examples</title>
+	</head>
+	<body>
+		<!--  example form -->
+		<form>
+			<h1>Signup form</h1>
+			<p>
+				<label for="username">Username</label>:
+				<input type="text" name="username" id="username" required>
+				<span id="usernameHelp"></span>
+			</p>
+			<p>
+				<label for="password">Password</label>:
+				<input type="password" name="password" id="password" required>
+				<span id="passwordHelp"></span>
+			</p>
+			<p>
+	    				<label for="emailAddress">Email address</label>:
+					<input type="email" name="emailAddress" id="emailAddress" required placeholder="user@domain">
+				<span id="emailHelp"></span>
+			</p>
+			<p>
+				<input type="checkbox" name="confirmation" id="confirmation">
+				<label for="confirmation">Send me a confirmation email</label>
+			</p>
+			<p>
+				<input type="radio" name="subscription" id="newsroom" value="newspromo">
+				<label for="newsroom">Subscribe me to newsletters and promotions</label>
+				<br>
+				<input type="radio" name="subscription" id="news" value="news">
+				<label for="news">Subscribe me only to the newsletter</label>
+				<br>
+				<input type="radio" name="subscription" id="no" value="no" checked>
+				<label for="no">No subscriptions</label>
+				<br>
+			</p>
+			<p>
+				<label for="nationality">Nationality</label>:
+				<select name="nationality" id="nationality">
+					<option value="US" selected>American</option>
+					<option value="FR">French</option>
+					<option value="ES">Spanish</option>
+					<option value="XX">Other</option>
+				</select>
+			</p>
+
+			<input type="submit" value="Submit">
+			<input type="reset" value="Cancel">
+		</form>
+		<!-- load JS files -->
+		<script type="text/javascript" src="../js/example.js"></script>
+	</body>
+</html>
