@@ -1,0 +1,17 @@
+#frame {
+  border-bottom: 5px solid black;
+  height: 300px;
+  display: inline-block;
+}
+
+#block {
+  width: 20px;
+  height: 40px;
+  background: red;
+  position: relative;
+}
+
+#ball {
+    position: relative;
+    left: 0px;
+}
