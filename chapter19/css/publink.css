@@ -39,3 +39,11 @@ body {
 .linkForm {
   margin-bottom: 20px;
 }
+
+.success {
+  border: 1px solid green;
+  border-radius: 3px;
+  padding: 15px;
+  background-color: rgba(0,255,0,0.1);
+  color: green;
+}
