@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Code examples</title>
+		<meta charset="utf-8">
+	</head>
+	<body>
+		<!-- Sending Form data directly -->
+		<h2>Which one is the strongest?</h2>
+		<form>
+			<p>
+				<input type="radio" name="strongest" id="elephant" value="ELE" checked>
+				<label for="elephant">The elephant</label>
+				<br>
+				<input type="radio" name="strongest" id="rhinoceros" value="RHI">
+				<label for="rhinoceros">The rhinoceros</label>
+				<br>
+				<input type="radio" name="strongest" id="hippopotamus" value="HIP">
+				<label for="hippopotamus">The hippopotamus</label>
+				<br>
+			</p>
+			<p>
+				<label for="name">Your name</label>:
+				<input type="text" name="name" id="name" required>
+			</p>
+			<input type="submit" value="Vote">
+		</form>
+		<p id="result"></p>
+		<!-- formData independant of form -->
+		<button id="buyButton">Buy a new t-shirt</button>
+		<p id="result2"></p>
+		<!-- Load js file -->
+		<script type="text/javascript" src="../js/example.js"></script>
+	</body>
+</html>
