@@ -1,0 +1,19 @@
+{
+  "name": "dates",
+  "version": "1.0.0",
+  "description": "Display current date and years since given date",
+  "main": "index.js",
+  "dependencies": {
+    "moment": "^2.18.1",
+    "semver": "^5.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dates"
+  ],
+  "author": "Martin Reiche",
+  "license": "ISC"
+}
