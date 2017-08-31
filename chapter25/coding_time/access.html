@@ -5,10 +5,20 @@
 	<meta charset="utf-8">
 </head>
 <body>
+	<!--T-Shirts -->
 	<form>
 		<input type="submit" name="Buy T-shirt">
 	</form>
-	<div id="result"></div>
+	<div id="result"></div><br>
+	<!-- New Article -->
+	<form id="articles">
+		<label name="title">title</label><br>
+		<input type="text" name="title" required><br>
+		<label name="article">Article</label><br>
+		<textarea name="article" rows="10" cols="50" required></textarea><br>
+		<input type="submit" value="Add new Article">
+	</form>
+	<div id="articleResults"></div>
 	<!-- Load js -->
 	<script type="text/javascript" src="./access.js"></script>
 </body>
