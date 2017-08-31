@@ -53,7 +53,6 @@ app.get("/api/articles", (request, response) => {
 
 // Handle form data submission to the "/animals" route
 app.post("/animals", upload.array(), (request, response) => {
-	console.log(request.body)
 	const name = request.body.name;
 	const vote = request.body.strongest;
 	response.send(`Hello ${name}, you voted: ${vote}`);
