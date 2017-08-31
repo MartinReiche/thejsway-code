@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Access local server</title>
+	<meta charset="utf-8">
+</head>
+<body>
+	<!-- Sending Form data directly -->
+	<h2>Which one is the strongest?</h2>
+	<form>
+		<p>
+			<input type="radio" name="strongest" id="elephant" value="ELE" checked>
+			<label for="elephant">The elephant</label>
+			<br>
+			<input type="radio" name="strongest" id="rhinoceros" value="RHI">
+			<label for="rhinoceros">The rhinoceros</label>
+			<br>
+			<input type="radio" name="strongest" id="hippopotamus" value="HIP">
+			<label for="hippopotamus">The hippopotamus</label>
+			<br>
+		</p>
+		<p>
+			<label for="name">Your name</label>:
+			<input type="text" name="name" id="name" required>
+		</p>
+		<input type="submit" value="Vote">
+	</form>
+	<div id="result"></div>
+	<!-- Load JS file -->
+	<script type="text/javascript" src="./access.js"></script>
+</body>
+</html>

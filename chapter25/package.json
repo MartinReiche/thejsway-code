@@ -17,5 +17,10 @@
     "Webserver"
   ],
   "author": "Martin Reiche",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "multer": "^1.3.0"
+  }
 }
