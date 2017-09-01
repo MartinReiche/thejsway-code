@@ -10,28 +10,22 @@
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.3",
     "express": "~4.15.2",
+    "express-handlebars": "^3.0.0",
     "morgan": "~1.8.1",
-    "pug": "~2.0.0-beta11",
     "serve-favicon": "~2.4.2"
   },
+  "description": "A social news platform",
   "main": "app.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/MartinReiche/thejsway-code/tree/master/chapter26/publink"
   },
   "keywords": [
-    "A",
     "social",
-    "news",
-    "app",
-    "using",
     "node",
     "express",
-    "and",
-    "vanilla",
-    "JS"
+    "handlebars"
   ],
   "author": "Martin Reiche",
-  "license": "ISC",
-  "description": ""
+  "license": "ISC"
 }
