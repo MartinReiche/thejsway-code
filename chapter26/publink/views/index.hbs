@@ -10,7 +10,7 @@
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 				</button>
-				<a class="navbar-brand" href="#"><span class="glyphicon glyphicon-link" aria-hidden="true"></span> publink</a>
+				<a class="navbar-brand" href="#"><span class="glyphicon glyphicon-link" aria-hidden="true"></span> Publink</a>
 			</div>
 			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 				<button type="button" id="submitbutton" class="btn btn-default navbar-btn">submit</button>
@@ -21,13 +21,21 @@
 	<div id="form"></div>
 	<div id="content">
 		<!-- dynamic content goes here -->
+		{{#each links}}
+			<div class="link">
+				<h4 class="linkHeadline">
+					<a class="linkTitle" href={{ this.url }}>{{  this.title}}</a>
+					<span class="linkUrl">{{ this.url }}</span>
+				</h4>
+				<span class="linkAuthor">{{ this.author }}</span>
+			</div>
+		{{/each}}
 	</div>
 </div>
 
 <!-- JavaScript code goes into this file -->
-<script src="../js/publink.js"></script>
-
-<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="/javascripts/publink.js"></script>
+ <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
